@@ -2,6 +2,7 @@
 <h1 align="center">I'm Shivangi 👋</h1>
 <br>
 <hr>
+<br>
 
 ## I'm a Student, Learner, Developer, and Explorer !!
 
@@ -13,6 +14,7 @@
 
 <br>
 <hr>
+<br>
 
 ## Languages and Tools:
 
@@ -31,9 +33,10 @@
 <br>
 <hr>
 <br>
+<br>
 
 ## Connect with me on LinkedIn: 
-[<img alt="Shivangi | LinkedIn" height="30px" src="https://image.flaticon.com/icons/png/512/145/145807.png"/>](https://www.linkedin.com/in/shivangi-agarwal-06578b1ab/)
+[<img alt="Shivangi | LinkedIn" height="30px" src="https://image.flaticon.com/icons/png/512/145/145807.png"/>](https://www.linkedin.com/in/shivangi22agarwal)
 
 <br>
 <hr>
