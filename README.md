@@ -30,6 +30,7 @@
 
 <br>
 <hr>
+<br>
 
 ## Connect with me on LinkedIn: 
 [<img alt="Shivangi | LinkedIn" height="30px" src="https://image.flaticon.com/icons/png/512/145/145807.png"/>](https://www.linkedin.com/in/shivangi-agarwal-06578b1ab/)
