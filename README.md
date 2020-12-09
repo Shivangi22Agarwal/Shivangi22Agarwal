@@ -28,8 +28,8 @@
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-![Django framework](https://www.edgica.com/wp-content/files/django-logo-big.jpg)
-![Bootstrap logo](https://www.ict.social/images/1/css/bootstrap/bootstrap-stack.png)
+![Django framework](https://www.edgica.com/wp-content/files/django-logo-big.jpg | width=25)
+![Bootstrap logo](https://www.ict.social/images/1/css/bootstrap/bootstrap-stack.png | width=30)
 <br>
 <br>
 <br>
