@@ -2,7 +2,7 @@
 <h1 align="center">I'm Shivangi :slightly_smiling_face:</h1>
 <br>
 
-##	:large_orange_diamond: I'm a Student, Learner, Developer, and Explorer !!
+##	:large_orange_diamond: A Learner, Developer, and Explorer !!
 
 - :upside_down_face: I am a passionate individual with a zest to learn.
 - :dart: Learning everyday, currently focusing on back-end development.
