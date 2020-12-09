@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨, people!</h1>
-<h1 align="center">:slightly_smiling_face: I'm Shivangi :desktop_computer: 	:woman_technologist:</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨, people! :desktop_computer:</h1>
+<h1 align="center">I'm Shivangi :slightly_smiling_face:</h1>
 <br>
 
 ##	:large_orange_diamond: I'm a Student, Learner, Developer, and Explorer !!
@@ -33,8 +33,6 @@
 
 ## Connect with me: 
 [<img alt="Shivangi | LinkedIn" height="30px" src="https://image.flaticon.com/icons/png/512/145/145807.png"/>](https://www.linkedin.com/in/shivangi22agarwal)
-[<img alt="Shivangi | Mail" height="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Femail_552486&psig=AOvVaw2nKs8hLJHfpB9hkjkPbZb0&ust=1607610196399000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDWqpSNwe0CFQAAAAAdAAAAABAK"/>](mailto:itsshivangi12@gmail.com)
-<a href="mailto:itsshivangi12@gmail.com"><img height="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Femail_552486&psig=AOvVaw2nKs8hLJHfpB9hkjkPbZb0&ust=1607610196399000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDWqpSNwe0CFQAAAAAdAAAAABAK"></a>
 
 <br>
 
