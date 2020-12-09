@@ -1,14 +1,16 @@
 <h1 align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨, people!</h1>
-<h1 align="center">I'm Shivangi 👋</h1>
+<h1 align="center">:slightly_smiling_face: I'm Shivangi :desktop_computer: 	:woman_technologist:</h1>
 <br>
 
-## I'm a Student, Learner, Developer, and Explorer !!
+## A Learner, Developer, and Explorer !!
 
 - :upside_down_face: I am a passionate individual with a zest to learn.
-- 🌱 Learning everyday, currently focusing on back-end development.
+- :dart: Learning everyday, currently focusing on back-end development.
 - 👯 I’m always looking for challenging work oppurtunities ahead.
-- ⚡ Fun fact: I can code without a desktop too, lol !
-- 📬 How to reach me: <a href="mailto:itsshivangi12@gmail.com">Let's get in touch!</a>
+- :pushpin: I’m always looking for challenging work oppurtunities ahead.
+- :large_orange_diamond: Fun fact: I can code without a desktop too, lol !
+- :ballot_box_with_check: Fun fact: I can code without a desktop too, lol !
+- :email: How to reach me: <a href="mailto:itsshivangi12@gmail.com">Let's get in touch!</a>
 
 <br>
 
@@ -28,12 +30,12 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br>
+<br>
 
 ## Connect with me on LinkedIn: 
 [<img alt="Shivangi | LinkedIn" height="30px" src="https://image.flaticon.com/icons/png/512/145/145807.png"/>](https://www.linkedin.com/in/shivangi22agarwal)
 
 <br>
-<hr>
 
 <p align="center"><em>
 🔭 Thanks for visiting !!<br>Bye bye 👋
